@@ -23,7 +23,7 @@ class HealthMonitorUITests: XCTestCase {
         // Put teardown code here. This method is called after the invocation of each test method in the class.
     }
 
-    func testExample() {
+    func testSignupCustomer() {
         // UI tests must launch the application that they test.
         let app = XCUIApplication()
         app.launch()

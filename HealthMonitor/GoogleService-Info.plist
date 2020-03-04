@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>442930515500-06920v3cso5uqqotrcpmklghj1iuaco5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.442930515500-06920v3cso5uqqotrcpmklghj1iuaco5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCbPMN8q_h-Os-zj9oiROPntnxiluESA9o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>442930515500</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Healtify.com</string>
+	<key>PROJECT_ID</key>
+	<string>health-monitor-b3a81</string>
+	<key>STORAGE_BUCKET</key>
+	<string>health-monitor-b3a81.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:442930515500:ios:cb8a3c7bd86c3945474b89</string>
+	<key>DATABASE_URL</key>
+	<string>https://health-monitor-b3a81.firebaseio.com</string>
+</dict>
+</plist>
