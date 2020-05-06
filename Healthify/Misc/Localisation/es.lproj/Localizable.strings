@@ -1,0 +1,76 @@
+/* 
+  Localization.strings
+  HealthyApp
+
+  Created by Aditya on 25/03/20.
+  Copyright © 2020 AdityaIP. All rights reserved.
+*/
+
+
+
+"ENTER_VALID_NAME"             =  "Porfavor ingrese un usuario valido";
+"ENTER_VALID_PHONE_NUMBER"      = "Please enter 4 to 15 digit mobile number";
+
+// SIGNUP
+"ENTER_FIRSTNAME"               = "Por favor, introduzca su nombre de pila";
+"ENTER_LASTNAME"                = "Por favor ingrese su apellido";
+"ENTER_EMAIL"                   = "Por favor introduzca su correo electrónico";
+"ENTER_PASS"                    = "Por favor, introduzca su contraseña";
+"ENTER_ZIP"                     = "Por favor ingrese el código postal";
+//--------
+
+"ENTER_VALID_NAME"              = "Por favor ingrese un nombre válido";
+"ENTER_PHONE_NUMBER"            = "Por favor, introduzca el número de móvil";
+"ENTER_NEW_PASSWORD"            = "Por favor ingrese una nueva contraseña";
+"ENTER_RE_NEW_PASSWORD"         = "Please re enter new password";
+"ENTER_8_DIGIT_PASSWORD"        = "Ingrese al menos una contraseña de 8 dígitos";
+"ENTER_CURRENT_PASSWORD"        = "Please enter current password";
+"RE_ENTER_PASSWORD"             = "Please Re-Enter password";
+"ENTER_NEW_PASSWORD"            = "Por favor ingrese una nueva contraseña";
+"PASSWORD_NOT_MATCHED"          = "Password not matched";
+"ENTER_PASSWORD"                = "Por favor, ingrese contraseña";
+"ENTER_PASSWORD_RANGE"          = "La contraseña debe tener al menos 8 dígitos y un máximo de 15 dígitos";
+
+
+"ENTER_NAME"                    = "Please enter your name";
+"TRY_AFTER_SOMETIME"            = "Por favor, intente después de algún momento";
+"PASSWORD_UPDATE_ALERT"         = "Contraseña actualizada con éxito";
+
+"LANGUAGE_CHANGED_SUCCESS"                                = "Idioma cambiado exitosamente";
+
+"ALERT"                         = "Alerta";
+
+"SPANISH"           = "española";
+"ENGLISH"           = "inglesa";
+
+"ALREADY_CHOSEN_LANG_ALERT"             = "Ya has elegido este idioma";
+"SOMETHING_WENT_WRONG"          = "¡Algo salió mal!";
+"SOMETHING_WENT_WRONG_WITH_WRONG_PASS" = "¡Algo salió mal !, puede que hayas ingresado una contraseña incorrecta.";
+"USER_INVALID" = "El usuario no existe.";
+"USER_LOGOUT_PERMISSION"            =  "¿Estás seguro de que quieres cerrar sesión?";
+"OK"                                = "Okay";
+"CANCEL"                                = "Cancelar";
+"SETTINGS"                            = "Configuraciones";
+"SIGNOUT"                               = "desconectar";
+"HOME"                      = "Hogar";
+"CHAT"                      = "Charla";
+"ME"                        = "Yo";
+"MORE"                      = "Más";
+
+"HEALTHIFY"                 = "Monitor de salud";
+"CAL_EATEN"                 = "Calorías comidas";
+"WATER"                 = "Vaso de agua";
+"STEPS"                 = "Pasos";
+"GOALS"                 = "Fijar metas";
+
+
+"EDIT"                          =   "Editar";
+"TRACKER"                       =  "Rastreador" ;
+"HEALTHY_MEAL"                  = "Comida saludable";
+"SUPPORT"                       =  "Apoyo";
+"REMINDER"                      = "Recordatorio";
+"MY_PLAN"                       = "Mi plan";
+
+
+"MEAL_ADDED_ALERT"          = "Comida añadida a su régimen. Comprueba tu base de datos";
+"FITNESS_REGIME_UPDATED"        = "Su régimen de ejercicios se ha actualizado. Revisa tu base de datos";

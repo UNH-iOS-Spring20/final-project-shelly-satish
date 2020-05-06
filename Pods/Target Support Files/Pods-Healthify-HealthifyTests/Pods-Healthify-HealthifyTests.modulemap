@@ -1,0 +1,6 @@
+framework module Pods_Healthify_HealthifyTests {
+  umbrella header "Pods-Healthify-HealthifyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="LoaderView" customModule="Healthify" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view alpha="0.20000000000000001" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="VRo-Yx-NQB">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                    <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </view>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="fitness" translatesAutoresizingMaskIntoConstraints="NO" id="2x4-LA-Bg3">
+                    <rect key="frame" x="140" y="264" width="40" height="40"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <color key="tintColor" red="0.0" green="0.4941176471" blue="0.96470588239999999" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="40" id="Qu1-Wd-shC"/>
+                        <constraint firstAttribute="height" constant="40" id="lAm-9o-iB6"/>
+                    </constraints>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="VRo-Yx-NQB" secondAttribute="trailing" id="16e-ci-GSL"/>
+                <constraint firstItem="2x4-LA-Bg3" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="Ayp-tK-nx2"/>
+                <constraint firstItem="VRo-Yx-NQB" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="YCa-1j-0Qy"/>
+                <constraint firstItem="VRo-Yx-NQB" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="hdM-Dc-Tza"/>
+                <constraint firstAttribute="bottom" secondItem="VRo-Yx-NQB" secondAttribute="bottom" id="lR5-uS-YFV"/>
+                <constraint firstItem="2x4-LA-Bg3" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="r1Y-KP-kDO"/>
+            </constraints>
+            <connections>
+                <outlet property="imgVSpinner" destination="2x4-LA-Bg3" id="vhH-rl-jDl"/>
+            </connections>
+            <point key="canvasLocation" x="-91" y="-7"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="fitness" width="96" height="96"/>
+    </resources>
+</document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>303391952480-8qc7b8vkfe9tuvtsh8qchorsi7c7i5h7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.303391952480-8qc7b8vkfe9tuvtsh8qchorsi7c7i5h7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCQBnUPXq0rPw7j7PQO1HobN0qH5gRflQE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>303391952480</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ano.Healthify</string>
+	<key>PROJECT_ID</key>
+	<string>healthify-7f1c9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>healthify-7f1c9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:303391952480:ios:01c7ba4cbc2e88faa4bd05</string>
+	<key>DATABASE_URL</key>
+	<string>https://healthify-7f1c9.firebaseio.com</string>
+</dict>
+</plist>

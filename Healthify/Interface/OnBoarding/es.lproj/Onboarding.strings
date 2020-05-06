@@ -1,0 +1,62 @@
+
+/* Class = "UILabel"; text = "By Signing up you are accepting our"; ObjectID = "3zY-oN-Y5P"; */
+"3zY-oN-Y5P.text" = "Al registrarte estás aceptando nuestro";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "5oV-TH-08R"; */
+"5oV-TH-08R.normalTitle" = "Skip";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "6QF-cl-eTd"; */
+"6QF-cl-eTd.placeholder" = "Dirección de correo electrónico";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "9Zn-AR-OmN"; */
+"9Zn-AR-OmN.text" = "Regístrate";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "Bxf-bV-19x"; */
+"Bxf-bV-19x.placeholder" = "País";
+
+/* Class = "UITextField"; placeholder = "UserName/Password"; ObjectID = "CyX-o7-Npr"; */
+"CyX-o7-Npr.placeholder" = "Nombre de usuario";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "MJ4-4v-dMx"; */
+"MJ4-4v-dMx.normalTitle" = "Registrarse";
+
+/* Class = "UIButton"; normalTitle = "Terms & Conditions"; ObjectID = "Quv-M0-RAi"; */
+"Quv-M0-RAi.normalTitle" = "Términos y condiciones";
+
+/* Class = "UIButton"; normalTitle = "+968"; ObjectID = "TRI-Re-R5V"; */
+"TRI-Re-R5V.normalTitle" = "+968";
+
+/* Class = "UILabel"; text = "Please enter your Email to help us identify you"; ObjectID = "UxZ-8e-TTE"; */
+"UxZ-8e-TTE.text" = "Please enter your Email to help us identify you";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "XHA-Dc-jgg"; */
+"XHA-Dc-jgg.placeholder" = "Contraseña";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "a5t-ln-bvP"; */
+"a5t-ln-bvP.text" = "Se te olvidó tu contraseña";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "ckR-T4-LFY"; */
+"ckR-T4-LFY.placeholder" = "Nombre de pila";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "gOY-mB-SUM"; */
+"gOY-mB-SUM.placeholder" = "Dirección de correo electrónico";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "lUz-4e-L7i"; */
+"lUz-4e-L7i.placeholder" = "Apellido";
+
+/* Class = "UILabel"; text = "Please Select a Language"; ObjectID = "pVh-Zh-3kz"; */
+"pVh-Zh-3kz.text" = "Puedes elegir tu idioma";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "vr3-ED-Koe"; */
+"vr3-ED-Koe.placeholder" = "Contraseña";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vyV-NL-FQJ"; */
+"vyV-NL-FQJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Sign In"; ObjectID = "wjr-aC-04G"; */
+"wjr-aC-04G.text" = "Registrarse";
+
+"QQI-rs-Xy5.normalTitle" = "Se te olvidó tu contraseña";
+"wdW-iU-5oU.normalTitle" = "Crea una cuenta";
+
+"Xpc-gy-ais.normalTitle"  = "¿Cambiar idioma?";

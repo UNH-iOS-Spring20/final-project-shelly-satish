@@ -1,0 +1,54 @@
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "49s-Or-mTK"; */
+"49s-Or-mTK.normalTitle" = "Skip";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "7Tl-2z-y6w"; */
+"7Tl-2z-y6w.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "8Xh-7c-Lzc"; */
+"8Xh-7c-Lzc.placeholder" = "Mobile Number";
+
+/* Class = "UITextField"; placeholder = "UserName/Password"; ObjectID = "8ma-pn-ggP"; */
+"8ma-pn-ggP.placeholder" = "UserName/Password";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "CsX-Bo-zVZ"; */
+"CsX-Bo-zVZ.normalTitle" = "Sign In";
+
+/* Class = "UIButton"; normalTitle = "Terms & Conditions"; ObjectID = "Kbf-XG-OJt"; */
+"Kbf-XG-OJt.normalTitle" = "Terms & Conditions";
+
+/* Class = "UILabel"; text = "Please enter your Email to help us identify you"; ObjectID = "OIP-Jq-RgG"; */
+"OIP-Jq-RgG.text" = "Please enter your Email to help us identify you";
+
+/* Class = "UILabel"; text = "By Signing up you are accepting our"; ObjectID = "OcF-BU-dSe"; */
+"OcF-BU-dSe.text" = "By Signing up you are accepting our";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "Pcx-dp-OA0"; */
+"Pcx-dp-OA0.text" = "Sign Up";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "QG4-pt-KTt"; */
+"QG4-pt-KTt.placeholder" = "Email Address";
+
+/* Class = "UIButton"; normalTitle = "+968"; ObjectID = "bYc-pi-Oc0"; */
+"bYc-pi-Oc0.normalTitle" = "+968";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "doo-W4-Tgc"; */
+"doo-W4-Tgc.text" = "Forgot Password";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "eps-fb-R9w"; */
+"eps-fb-R9w.placeholder" = "Email Address";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fdA-da-nzl"; */
+"fdA-da-nzl.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "kwK-Xw-AcK"; */
+"kwK-Xw-AcK.placeholder" = "Last Name";
+
+/* Class = "UILabel"; text = "Sign In"; ObjectID = "pzN-jr-Lye"; */
+"pzN-jr-Lye.text" = "Sign In";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "wnw-DR-aym"; */
+"wnw-DR-aym.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "zUo-By-uV7"; */
+"zUo-By-uV7.placeholder" = "First Name";

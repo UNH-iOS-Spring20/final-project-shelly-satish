@@ -1,0 +1,77 @@
+/* 
+ Localization.strings
+ HealthyApp
+ 
+ Created by Aditya on 25/03/20.
+ Copyright © 2020 AdityaIP. All rights reserved.
+ */
+
+
+"ENTER_VALID_PHONE_NUMBER"      = "Please enter 4 to 15 digit mobile number";
+
+"ENTER_FIRSTNAME"               = "Please enter your first name";
+"ENTER_LASTNAME"                = "Please enter your last name";
+"ENTER_EMAIL"                   = "Please enter your email";
+"ENTER_PASS"                    = "Please enter your password";
+"ENTER_ZIP"                     = "Please enter zip code";
+
+
+"ENTER_VALID_NAME"              = "Please enter valid userName";
+"ENTER_PHONE_NUMBER"            = "Please enter mobile number";
+"ENTER_OLD_PASSWORD"            = "Please enter current password";
+"ENTER_NEW_PASSWORD"            = "Please enter new password";
+"ENTER_RE_NEW_PASSWORD"         = "Please re enter new password";
+"ENTER_8_DIGIT_PASSWORD"        = "Please enter atleast 8 digit password";
+"ENTER_CURRENT_PASSWORD"        = "Please enter current password";
+"RE_ENTER_PASSWORD"             = "Please Re-Enter password";
+"ENTER_NEW_PASSWORD"            = "Please enter new password";
+"PASSWORD_NOT_MATCHED"          = "Password not matched";
+"ENTER_PASSWORD"                = "Please enter password";
+"ENTER_PASSWORD_RANGE"          = "Password should be atleast 8 digit and max 15 digit";
+
+
+"ENTER_DOB"                     = "Please enter Date Of Birth.";
+"ENTER_NAME"                    = "Please enter your name";
+"TRY_AFTER_SOMETIME"            = "Please try After sometime";
+"PASSWORD_UPDATE_ALERT"         = "Password successfully updated.";
+
+"LANGUAGE_CHANGED_SUCCESS"                                = "Language Changed Successfully";
+"ALERT"                         = "Alert";
+
+"SPANISH"           = "Spanish";
+"ENGLISH"           = "English";
+"ALREADY_CHOSEN_LANG_ALERT"             = "You have already chosen this language";
+"SOMETHING_WENT_WRONG"          = "Something went wrong!";
+
+"SOMETHING_WENT_WRONG_WITH_WRONG_PASS" = "Something went wrong! May be you entered wrong password.";
+"USER_INVALID" = "User does not exists.";
+"USER_LOGOUT_PERMISSION"            =  "Are you sure you want to logout?";
+"OK"                                = "Ok";
+"CANCEL"                                = "Cancel";
+"SETTINGS"                            = "Settings";
+"SIGNOUT"                               = "Sign Out";
+
+"HOME"                      = "Home";
+"CHAT"                      = "Chat";
+"ME"                        = "Me";
+"MORE"                      = "More";
+
+"HEALTHIFY"                 = "Healthify";
+"CAL_EATEN"                 = "Calories Eaten";
+"WATER"                 = "Glass Of Water";
+"STEPS"                 = "Steps";
+"GOALS"                 = "Set Goals";
+
+
+"EDIT"                          =   "Edit";
+"TRACKER"                       =  "Tracker" ;
+"HEALTHY_MEAL"                  = "Healthy Meal";
+"SUPPORT"                       =  "Support";
+"REMINDER"                      = "Reminder";
+"MY_PLAN"                       = "My Plan";
+
+       
+       
+"MEAL_ADDED_ALERT"              = "Meal added into your Regime. Check your databse";
+"FITNESS_REGIME_UPDATED"        = "Your Fitness Regime has been updated.";
+
