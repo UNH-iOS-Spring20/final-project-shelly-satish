@@ -1,6 +1,2 @@
-Dont Track content of this folder
-*.xcodeproj
-*.xcworkspace
-:wq
-
-
+Healthify.xcodeproj
+Healthify.xcworkspace
