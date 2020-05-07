@@ -1,10 +1,10 @@
-//
+
 //  AppDelegate.swift
 //  HealthyApp
 //
 //  Created by shelly choudhary on 25/03/20.
 //  Copyright © 2020 shelly choudhary. All rights reserved.
-//
+
 
 import UIKit
 import IQKeyboardManagerSwift
@@ -12,7 +12,7 @@ import Kingfisher
 import Firebase
 
 @UIApplicationMain
-class AppDelegate: UIResponder, UIApplicationDelegate {
+ class AppDelegate: UIResponder, UIApplicationDelegate {
     
     // MARK: - ▼▼▼ Properties ▼▼▼
     var navigationController : UINavigationController!
