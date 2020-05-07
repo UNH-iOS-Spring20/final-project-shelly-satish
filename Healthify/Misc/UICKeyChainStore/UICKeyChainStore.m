@@ -5,7 +5,7 @@
 
 #import "UICKeyChainStore.h"
 
-NSString * const UICKeyChainStoreErrorDomain = @"com.kishikawakatsumi.uickeychainstore";
+NSString * const UICKeyChainStoreErrorDomain = @"com.shellychoudhary.uickeychainstore";
 static NSString *_defaultService;
 
 @interface UICKeyChainStore ()
